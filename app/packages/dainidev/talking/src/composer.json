@@ -1,8 +1,0 @@
-{
-    "name": "Dainidev/Talking",
-    "description": "Use this for instant messages",
-    "type": "composer-plugin",
-    "license": "public",
-    "minimum-stability": "dev",
-    "require": {}
-}
